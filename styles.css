@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.my_image {
+    height: 300px;
+    width: 250px;
+}
+
+.main_line {
+    width: 1400px;
+}
+
+.lines {
+    width: 1200px;
+}
+
+a {
+    color:blue;
+}
